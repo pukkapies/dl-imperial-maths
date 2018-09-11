@@ -15,4 +15,16 @@ Topics covered in this course will include:
 
 There is a course website where registrations can be made and further logistical details can be found [here](https://www.deeplearningmathematics.com).
 
+## Course tutors
+
+### Kevin Webster
+
+[Kevin](https://www.linkedin.com/in/kevin-webster-095aba59/) obtained his PhD in 2003 from the Department of Mathematics at Imperial College, in the area of dynamical systems. He has also held postdoctorate positions at Imperial College, and was awarded a Marie Curie Individual Fellowship, which he spent at the Potsdam Institute for Climate Impact Modelling in Germany. During these positions his research interests became more focused on machine learning, and specifically adapting ML technologies for numerical analysis problems in dynamical systems. He was the Head of Research at the London music AI startup Jukedeck, where he oversaw the development of the deep learning framework for automatic music composition. In 2018 he set up his own machine learning consultancy, [FeedForward](http://www.feedforwardai.com/), with a focus on the music & the creative industries. His particular interest in the field of deep learning is generative modelling.
+
+### Pierre Richemond
+
+## Coursework
+
 This repository contains the relevant code for the Tensorflow tutorials as well as details for the coursework, for students that wish to take this course for credit.
+
+Students are recommended to fork this repository and add their solutions to the assignments in their forked repository. The coursework will be assessed orally following completion of the course.
