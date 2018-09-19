@@ -1,0 +1,10 @@
+*.npy
+*.xml
+*.pyc
+*.DS_Store
+
+**/solution.py
+**/.ipynb_checkpoints/
+
+__pycache__/
+.idea/
