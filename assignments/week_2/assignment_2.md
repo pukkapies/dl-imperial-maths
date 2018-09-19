@@ -40,4 +40,4 @@ You should choose the number of layers for the network, the size of those layers
 * Read the TF docs carefully: the above loss function requires logits as inputs. Therefore if using this, the network output should be a linear layer
 * Include batch normalisation in the network using the ```tf.layers.batch_normalization``` function. Make sure to handle the `training` argument
 
-Create a train op in Tensorflow and train the network according to the schedule/criteria of your choice. Record and document the learning curves (train & test loss vs training iterations), and report the final train and test loss.
+Create a train op in Tensorflow and train the network according to the schedule/criteria of your choice. Record and document the learning curves (train & test loss vs training iterations or epochs), and report the final train and test loss.
