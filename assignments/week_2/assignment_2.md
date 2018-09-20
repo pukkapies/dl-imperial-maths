@@ -5,7 +5,6 @@
 The aims for this assignment are:
 * Implement a simple MLP classifier in Tensorflow
 * Train a neural network using backpropagation
-* Implement batch normalisation
 
 We will build a multilayer perceptron as a classifier, and train it using backpropagation. The MLP consists of several densely connected layers
 
@@ -38,6 +37,5 @@ You should choose the number of layers for the network, the size of those layers
 * Use the ```tf.layers.dense``` function for the hidden layers in the network
 * We recommend to use the ```tf.nn.sparse_softmax_cross_entropy_with_logits_v2``` to compute the loss
 * Read the TF docs carefully: the above loss function requires logits as inputs. Therefore if using this, the network output should be a linear layer
-* Include batch normalisation in the network using the ```tf.layers.batch_normalization``` function. Make sure to handle the `training` argument
 
 Create a train op in Tensorflow and train the network according to the schedule/criteria of your choice. Record and document the learning curves (train & test loss vs training iterations or epochs), and report the final train and test loss.
