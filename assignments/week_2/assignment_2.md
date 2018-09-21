@@ -30,7 +30,7 @@ For our classifier, we will flatten the inputs so it is a 784-length vector, and
 
 ## Implementation in Tensorflow
 
-The assignment is to implement the MLP classifier for MNIST in Tensorflow, train it with one of the available optimisers and test the classification performance on the test set. 
+The assignment is to implement the MLP classifier for MNIST in Tensorflow, train it with one of the available optimisers and test the classification performance on the test set. Write your solution as a python script.
 
 You should choose the number of layers for the network, the size of those layers and the activation functions (try testing a few options for these hyperparameters).
 
