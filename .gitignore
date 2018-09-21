@@ -2,6 +2,7 @@
 *.xml
 *.pyc
 *.DS_Store
+*.mat
 
 **/solution.py
 **/.ipynb_checkpoints/
