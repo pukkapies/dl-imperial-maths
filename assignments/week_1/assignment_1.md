@@ -18,7 +18,9 @@ Provided the columns of <a href="https://www.codecogs.com/eqnedit.php?latex=$\ma
 
 ## Implementation in Tensorflow
 
-The assignment is to implement the normal equation as a graph in Tensorflow. The matrix of independent variables and the vector of targets should be defined as placeholders, allowing for a variable number of data points and features. The graph should define the solution to the linear regression problem using the normal equation.
+The assignment is to implement the normal equation as a graph in Tensorflow. Your solution should be written in a python script. 
+
+The matrix of independent variables and the vector of targets should be defined as placeholders, allowing for a variable number of data points and features. The graph should define the solution to the linear regression problem using the normal equation.
 
 In this folder you will find the file 'poverty.txt', which contains data on poverty level and teen birth rate in the US. This dataset has 51 datapoints for the 50 states and the District of Columbia in the United States. 
 
