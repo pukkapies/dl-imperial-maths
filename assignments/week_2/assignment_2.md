@@ -37,5 +37,6 @@ You should choose the number of layers for the network, the size of those layers
 * Use the ```tf.layers.dense``` function for the hidden layers in the network
 * We recommend to use the ```tf.nn.sparse_softmax_cross_entropy_with_logits_v2``` to compute the loss
 * Read the TF docs carefully: the above loss function requires logits as inputs. Therefore if using this, the network output should be a linear layer
-
-Create a train op in Tensorflow and train the network according to the schedule/criteria of your choice. Record and document the learning curves (train & test loss vs training iterations or epochs), and report the final train and test loss.
+* Create a train op in Tensorflow and train the network according to the schedule/criteria of your choice
+* Record and document the learning curves (train & test loss vs training iterations or epochs), and report the final train and test loss
+* Calculate the number of parameters used in the network, and record the time required to train the network
