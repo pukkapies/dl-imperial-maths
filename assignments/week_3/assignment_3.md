@@ -24,7 +24,7 @@ We exploit the CNN architecture to introduce an _infinitely strong prior_ into t
 
 In this week’s lecture we covered several standard ConvNet architectures, which should serve as inspiration for your own network design. The output of your network should again be a 10-way softmax layer to predict the digit label.
 
-## Implementation in Tensor flow
+## Implementation in Tensorflow
 
 The assignment is to implement the CNN classifier for MNIST in Tensorflow, train it and test the classification performance on the test set. 
 
