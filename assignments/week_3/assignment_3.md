@@ -26,14 +26,13 @@ In this week’s lecture we covered several standard ConvNet architectures, whic
 
 ## Implementation in Tensorflow
 
-The assignment is to implement the CNN classifier for MNIST in Tensorflow, train it and test the classification performance on the test set. 
+The assignment is to implement the CNN classifier for MNIST in Tensorflow, train it and test the classification performance on the test set. You should choose the number and types of layers in the network (try testing a few options).
 
-You should choose the number of layers for the network, the size of those layers and the activation functions (try testing a few options for these hyperparameters).
-
-* We recommend to use the ```tf.layers.conv2d``` function for the hidden layers in the network (but cf. with ```tf.nn.conv2d```)
+* We recommend to use the ```tf.layers.conv2d``` function for the convolutional layers in the network (but cf. with the lower-level ```tf.nn.conv2d```)
+* Similarly, consider using ```tf.layers.max_pooling2d``` and ```tf.layers.dropout``` in your network
 * As before, use the ```tf.nn.sparse_softmax_cross_entropy_with_logits_v2``` to compute the loss
 * Follow the design principles of the architectures covered in the lecture: build blocks of convolutional and pooling layers, with batch normalisation
-* Use either fully connected layers leading to a softmax output or implement a global pooling layer (as in GoogLeNet / ResNet)
+* Use either fully connected layers leading to a softmax output at the backend of the network, or implement a global pooling layer (as in GoogLeNet / ResNet)
 * Watch out for the dependencies in Tensorflow when using batch normalisation, and also the mode (training/inference)
 * As before, record and document the learning curves (train & test loss vs training iterations or epochs), and report the final train and test loss. 
 * Calculate the number of parameters used in the network, and record the time required to train the network
