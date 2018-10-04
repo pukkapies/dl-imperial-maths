@@ -23,6 +23,8 @@ There is a course website where registrations can be made and further logistical
 
 ### Pierre Richemond
 
+[Pierre](https://www.linkedin.com/in/pierre-h-richemond-2353683/) is currently researching his PhD in deep reinforcement learning at the Data Science Institute of Imperial College. He also helps run the Deep Learning Network ( [http://www.dlnetwork.org/](http://www.dlnetwork.org/)) and organize thematic reading groups there. Prior to that, he has worked in electronics as a research engineer and in quantitative finance as a trader. He has studied electrical engineering at ENST, probability theory and stochastic processes at Universite Paris VI - Ecole Polytechnique, and business management at HEC. His other research interests in the field of deep learning include neural network theory, as well as stochastic optimization methods. [@KloudStrife](https://twitter.com/KloudStrife)
+
 ## Coursework
 
 This repository contains the relevant code for the Tensorflow tutorials as well as details for the coursework, for students that wish to take this course for credit.
