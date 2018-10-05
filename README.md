@@ -27,6 +27,6 @@ There is a course website where registrations can be made and further logistical
 
 ## Coursework
 
-This repository contains the relevant code for the Tensorflow tutorials as well as details for the coursework, for students that wish to take this course for credit.
+This repository contains the notebooks for the Tensorflow tutorials as well as details for the coursework, for students that wish to take this course for credit. 
 
 Students are recommended to fork this repository and add their solutions to the assignments (as python scripts) in their forked repository. The coursework will be assessed orally following completion of the course.
