@@ -3,7 +3,7 @@ Code and assignment repository for the Imperial College Mathematics department D
 
 ## Course description
 
-Deep Learning is a fast-evolving field in artificial intelligence that has been driving breakthrough advances in many application areas in recent years. It has become one of the most in-demand skillsets in machine learning and AI, far exceeding the supply of people with an expertise in this field. This course is aimed at PhD students within the Mathematics department at Imperial College who have no prior knowledge or experience of the field. It will cover the foundations of Deep Learning, including the various types of neural networks used for supervised and unsupervised learning. Practical tutorials in Tensorflow are an integral part of the course, and will enable students to build and train their own deep neural networks for a range of applications. The course also aims to describe the current state-of-the-art in various areas of Deep Learning, theoretical underpinnings and outstanding problems.
+Deep Learning is a fast-evolving field in artificial intelligence that has been driving breakthrough advances in many application areas in recent years. It has become one of the most in-demand skillsets in machine learning and AI, far exceeding the supply of people with an expertise in this field. This course is aimed at PhD students within the Mathematics department at Imperial College who have no prior knowledge or experience of the field. It will cover the foundations of Deep Learning, including the various types of neural networks used for supervised and unsupervised learning. Practical tutorials in TensorFlow/PyTorch are an integral part of the course, and will enable students to build and train their own deep neural networks for a range of applications. The course also aims to describe the current state-of-the-art in various areas of Deep Learning, theoretical underpinnings and outstanding problems.
 
 Topics covered in this course will include: 
 
@@ -27,6 +27,6 @@ There is a course website where registrations can be made and further logistical
 
 ## Coursework
 
-This repository contains the notebooks for the Tensorflow tutorials as well as details for the coursework, for students that wish to take this course for credit. 
+This repository contains the notebooks for the TensorFlow/PyTorch tutorials as well as details for the coursework, for students that wish to take this course for credit. 
 
 Students are recommended to fork this repository and add their solutions to the assignments (as python scripts) in their forked repository. The coursework will be assessed orally following completion of the course.
