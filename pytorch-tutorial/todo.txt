@@ -1,0 +1,5 @@
+IWAE/normalising flows?
+PixelCNN for generative modelling?
+Graph networks?
+Dealing with other structured data (even just sets)?
+Object detection?

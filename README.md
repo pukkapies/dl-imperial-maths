@@ -3,7 +3,7 @@ Code and assignment repository for the Imperial College Mathematics department D
 
 ## Course description
 
-Deep Learning is a fast-evolving field in artificial intelligence that has been driving breakthrough advances in many application areas in recent years. It has become one of the most in-demand skillsets in machine learning and AI, far exceeding the supply of people with an expertise in this field. This course is aimed at PhD students within the Mathematics department at Imperial College who have no prior knowledge or experience of the field. It will cover the foundations of Deep Learning, including the various types of neural networks used for supervised and unsupervised learning. Practical tutorials in Tensorflow are an integral part of the course, and will enable students to build and train their own deep neural networks for a range of applications. The course also aims to describe the current state-of-the-art in various areas of Deep Learning, theoretical underpinnings and outstanding problems.
+Deep Learning is a fast-evolving field in artificial intelligence that has been driving breakthrough advances in many application areas in recent years. It has become one of the most in-demand skillsets in machine learning and AI, far exceeding the supply of people with an expertise in this field. This course is aimed at PhD students within the Mathematics department at Imperial College who have no prior knowledge or experience of the field. It will cover the foundations of Deep Learning, including the various types of neural networks used for supervised and unsupervised learning. Practical tutorials in TensorFlow/PyTorch are an integral part of the course, and will enable students to build and train their own deep neural networks for a range of applications. The course also aims to describe the current state-of-the-art in various areas of Deep Learning, theoretical underpinnings and outstanding problems.
 
 Topics covered in this course will include: 
 
@@ -23,18 +23,20 @@ There is a course website where registrations can be made and further logistical
 
 ### Pierre Richemond
 
-[Pierre](https://www.linkedin.com/in/pierre-h-richemond-2353683/) is currently researching his PhD in deep reinforcement learning at the Data Science Institute of Imperial College. He also helps run the Deep Learning Network ([http://www.dlnetwork.org/](http://www.dlnetwork.org/)) and organize thematic reading groups there. Prior to that, he has worked in electronics as a research engineer and in quantitative finance as a trader. He has studied electrical engineering at ENST, probability theory and stochastic processes at Universite Paris VI - Ecole Polytechnique, and business management at HEC. His other research interests in the field of deep learning include neural network theory, as well as stochastic optimization methods. [@KloudStrife](https://twitter.com/KloudStrife) / [p.richemond17@imperial.ac.uk](mailto:p.richemond17@imperial.ac.uk)
+[Pierre](https://www.linkedin.com/in/pierre-h-richemond-2353683/) is currently researching his PhD in deep reinforcement learning at the Data Science Institute of Imperial College. He also helps run the [Deep Learning Network](http://www.dlnetwork.org/) and organize thematic reading groups there. Prior to that, he has worked in electronics as a research engineer and in quantitative finance as a trader. He has studied electrical engineering at ENST, probability theory and stochastic processes at Universite Paris VI - Ecole Polytechnique, and business management at HEC. His other research interests in the field of deep learning include neural network theory, as well as stochastic optimization methods. [@KloudStrife](https://twitter.com/KloudStrife) / [p.richemond17@imperial.ac.uk](mailto:p.richemond17@imperial.ac.uk)
 
 ## Coursework
 
-This repository contains the notebooks for the Tensorflow tutorials as well as details for the coursework, for students that wish to take this course for credit. 
+This repository contains the notebooks for the TensorFlow/PyTorch tutorials as well as details for the coursework, for students that wish to take this course for credit. 
 
 Students are recommended to fork this repository and add their solutions to the assignments (as python scripts) in their forked repository. The coursework will be assessed orally following completion of the course.
 
 ### Software requirements
 
-To complete the coursework and run the notebooks you will need to install Tensorflow (as well as other scientific packages, especially numpy). This can be installed using pip; alternatively Tensorflow can be installed using Anaconda. Relevant links are given below:
+To complete the coursework and run the notebooks you will need to install Tensorflow and PyTorch (as well as other scientific packages, especially numpy). These can be installed using pip; alternatively Tensorflow/PyTorch can be installed using Anaconda (preferred for PyTorch). Relevant links are given below:
 
 * Installing anaconda: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Installing Tensorflow via Anaconda: [https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
 * Installing Tensorflow using pip: [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)
+* Installing PyTorch via Anaconda/pip: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+* Installing OpenAI Gym using pip (Anaconda install unavailable): [https://gym.openai.com/docs/](https://gym.openai.com/docs/)
