@@ -1,5 +1,7 @@
 # Assignment 3
 
+Suggested due date: 24th October 2018
+
 ## Convolutional neural network
 
 The aims for this assignment are:
