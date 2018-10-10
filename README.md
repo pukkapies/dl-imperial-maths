@@ -33,9 +33,10 @@ Students are recommended to fork this repository and add their solutions to the 
 
 ### Software requirements
 
-To complete the coursework and run the notebooks you will need to install Tensorflow and PyTorch (as well as other scientific packages, especially numpy). These can be installed using pip; alternatively Tensorflow/PyTorch can be installed using Anaconda (preferred for PyTorch). Relevant links are given below:
+To complete the coursework and run the notebooks you will need to install Tensorflow and PyTorch (as well as other scientific packages, especially numpy). These can be installed using pip; alternatively Tensorflow/PyTorch can be installed using Anaconda (preferred for PyTorch). Jupyter is conveniently installed with Anaconda, or it can also be installed using pip. Relevant links are given below:
 
 * Installing anaconda: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+* Installing Jupyter: [https://jupyter.readthedocs.io/en/latest/install.html](https://jupyter.readthedocs.io/en/latest/install.html)
 * Installing Tensorflow via Anaconda: [https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
 * Installing Tensorflow using pip: [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)
 * Installing PyTorch via Anaconda/pip: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
