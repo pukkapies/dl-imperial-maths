@@ -30,3 +30,11 @@ There is a course website where registrations can be made and further logistical
 This repository contains the notebooks for the TensorFlow/PyTorch tutorials as well as details for the coursework, for students that wish to take this course for credit. 
 
 Students are recommended to fork this repository and add their solutions to the assignments (as python scripts) in their forked repository. The coursework will be assessed orally following completion of the course.
+
+### Software requirements
+
+To complete the coursework and run the notebooks you will need to install Tensorflow (as well as other scientific packages, especially numpy). This can be installed using pip; alternatively Tensorflow can be installed using Anaconda. Relevant links are given below:
+
+* Installing anaconda: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+* Installing Tensorflow via Anaconda: [https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
+* Installing Tensorflow using pip: [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)

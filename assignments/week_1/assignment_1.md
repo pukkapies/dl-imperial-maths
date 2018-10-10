@@ -1,5 +1,7 @@
 # Assignment 1
 
+Suggested due date: 17th October 2018
+
 ## Linear regression
 
 The aim of this assignment is to familiarise with the basics of a Tensorflow pipeline. We will use linear regression as a simple algorithm to work through building and executing a tensorflow graph purely as an exercise.
