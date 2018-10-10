@@ -23,7 +23,7 @@ There is a course website where registrations can be made and further logistical
 
 ### Pierre Richemond
 
-[Pierre](https://www.linkedin.com/in/pierre-h-richemond-2353683/) is currently researching his PhD in deep reinforcement learning at the Data Science Institute of Imperial College. He also helps run the Deep Learning Network ([http://www.dlnetwork.org/](http://www.dlnetwork.org/)) and organize thematic reading groups there. Prior to that, he has worked in electronics as a research engineer and in quantitative finance as a trader. He has studied electrical engineering at ENST, probability theory and stochastic processes at Universite Paris VI - Ecole Polytechnique, and business management at HEC. His other research interests in the field of deep learning include neural network theory, as well as stochastic optimization methods. [@KloudStrife](https://twitter.com/KloudStrife) / [p.richemond17@imperial.ac.uk](mailto:p.richemond17@imperial.ac.uk)
+[Pierre](https://www.linkedin.com/in/pierre-h-richemond-2353683/) is currently researching his PhD in deep reinforcement learning at the Data Science Institute of Imperial College. He also helps run the [Deep Learning Network](http://www.dlnetwork.org/) and organize thematic reading groups there. Prior to that, he has worked in electronics as a research engineer and in quantitative finance as a trader. He has studied electrical engineering at ENST, probability theory and stochastic processes at Universite Paris VI - Ecole Polytechnique, and business management at HEC. His other research interests in the field of deep learning include neural network theory, as well as stochastic optimization methods. [@KloudStrife](https://twitter.com/KloudStrife) / [p.richemond17@imperial.ac.uk](mailto:p.richemond17@imperial.ac.uk)
 
 ## Coursework
 
@@ -33,8 +33,10 @@ Students are recommended to fork this repository and add their solutions to the 
 
 ### Software requirements
 
-To complete the coursework and run the notebooks you will need to install Tensorflow (as well as other scientific packages, especially numpy). This can be installed using pip; alternatively Tensorflow can be installed using Anaconda. Relevant links are given below:
+To complete the coursework and run the notebooks you will need to install Tensorflow and PyTorch (as well as other scientific packages, especially numpy). These can be installed using pip; alternatively Tensorflow/PyTorch can be installed using Anaconda (preferred for PyTorch). Relevant links are given below:
 
 * Installing anaconda: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Installing Tensorflow via Anaconda: [https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
 * Installing Tensorflow using pip: [https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)
+* Installing PyTorch via Anaconda/pip: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+* Installing OpenAI Gym using pip (Anaconda install unavailable): [https://gym.openai.com/docs/](https://gym.openai.com/docs/)
