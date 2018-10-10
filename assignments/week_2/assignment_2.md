@@ -1,5 +1,7 @@
 # Assignment 2
 
+Suggested due date: 24th October 2018
+
 ## Multilayer perceptron / Feedforward network
 
 The aims for this assignment are:
