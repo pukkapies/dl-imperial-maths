@@ -25,6 +25,12 @@ There is a course website where registrations can be made and further logistical
 
 [Pierre](https://www.linkedin.com/in/pierre-h-richemond-2353683/) is currently researching his PhD in deep reinforcement learning at the Data Science Institute of Imperial College. He also helps run the [Deep Learning Network](http://www.dlnetwork.org/) and organize thematic reading groups there. Prior to that, he has worked in electronics as a research engineer and in quantitative finance as a trader. He has studied electrical engineering at ENST, probability theory and stochastic processes at Universite Paris VI - Ecole Polytechnique, and business management at HEC. His other research interests in the field of deep learning include neural network theory, as well as stochastic optimization methods. [@KloudStrife](https://twitter.com/KloudStrife) / [p.richemond17@imperial.ac.uk](mailto:p.richemond17@imperial.ac.uk)
 
+## Guest tutors
+
+We are grateful to **Kai Arulkumaran** for providing PyTorch notebooks for the course and teaching two of the demonstration classes on PyTorch.
+
+[Kai](https://www.linkedin.com/in/kailasharul) is currently researching his PhD in deep learning at the Department of Bioengineering at Imperial College. During his PhD he has been a research intern at Microsoft Research, Twitter Magic Pony, Facebook AI Research and DeepMind. He also founded the [Deep Learning Network](http://dlnetwork.org) at Imperial College to organise guest lectures and a reading group on the topic of deep learning. He is an advocate for open-source software and a well-known contributor to the Torch/PyTorch ecosystems. Before his PhD he studied computer science at the University of Cambridge and worked as a web developer. [@KaiLashArul](https://twitter.com/KaiLashArul) / [kailash.arulkumaran13@imperial.ac.uk](mailto:kailash.arulkumaran13@imperial.ac.uk)
+
 ## Coursework
 
 This repository contains the notebooks for the TensorFlow/PyTorch tutorials as well as details for the coursework, for students that wish to take this course for credit. 
