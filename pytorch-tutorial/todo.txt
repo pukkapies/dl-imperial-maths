@@ -1,7 +1,8 @@
 Language modelling with RNNs?
-IWAE/normalising flows?
+Normalising flows?
 PixelCNN for generative modelling?
 Graph networks?
 Dealing with other structured data (even just sets)?
 Transformer for text?
 Object detection?
+DQN and DDPG/SVG?
