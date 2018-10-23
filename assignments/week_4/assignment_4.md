@@ -37,10 +37,10 @@ To this end:
 * Implement the Q-learning algorithm with epsilon-greedy - try several constant values, from 0.5 to 0.1.
 * Measure your success rate by counting the number of succesful trials on a sliding window of 100 episodes.
 * Anneal your epsilon rate with time (ie schedule its decay to a very small value over time). **Observe how drastically this impacts performance**.
-* Since the environment is stochastic, the correct evaluation involves measuring the quality of the algorithm on average, over a handful of trials.
+* Since the environment is stochastic, the correct evaluation involves measuring the quality of the algorithm on average, over a handful of trials. Use that as your measure.
 * Try changing the update rule to the SARSA algorithm, which shares the same logic but with on-policy update rule
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=Q_{t&plus;1}(s_t,a_t)&space;\leftarrow&space;Q_{t}(s_t,&space;a_t)&space;&plus;&space;\alpha&space;\Big(&space;r_t&space;&plus;&space;\gamma&space;\cdot&space;Q_{t}(s_{t&plus;1},a_{t&plus;1})&space;-&space;Q_{t}(s_t,a_t)&space;\Big)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Q_{t&plus;1}(s_t,a_t)&space;\leftarrow&space;Q_{t}(s_t,&space;a_t)&space;&plus;&space;\alpha&space;\Big(&space;r_t&space;&plus;&space;\gamma&space;\cdot&space;Q_{t}(s_{t&plus;1},a_{t&plus;1})&space;-&space;Q_{t}(s_t,a_t)&space;\Big)" title="Q_{t+1}(s_t,a_t) \leftarrow Q_{t}(s_t, a_t) + \alpha \Big( r_t + \gamma \cdot Q_{t}(s_{t+1},a_{t+1}) - Q_{t}(s_t,a_t) \Big)" /></a>
 
-
+Compare performance you obtain that way.
 * Bonus : Additionally, you are encouraged to move all your logic to TensorFlow once you have completed the assignment. You can then instantiate a new environment such as Atari games, and pick a function approximator of your choice to see how convergence goes (see the Nature DQN paper for implementation details).
