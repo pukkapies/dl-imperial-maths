@@ -16,7 +16,7 @@ The state is 4 scalars - position and angle of the cart with the vertical, as we
 
 ## Policy gradient methods
 
-Policy gradient methods (see slides from lecture 2) have a tendency to scale better on large state spaces, which is of good interest here since CartPole is a continuous state space environment.
+Policy gradient methods (see slides from RL lecture 2) have a tendency to scale better on large state spaces, which is of good interest here since CartPole is a continuous state space environment.
 The policy gradient theorem helps us do away with knowing the dynamics of the system, and building a stochastic gradient estimate just from one-step transitions. We will use it - and its special case REINFORCE - in order to solve our Cartpole problem.
 
 To this end:
