@@ -1,5 +1,6 @@
-IWAE/normalising flows?
-PixelCNN for generative modelling?
-Graph networks?
-Dealing with other structured data (even just sets)?
+Normalising flows (https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)?
+Transformer for text?
+Language modelling with RNNs?
+Graph networks? Dealing with other structured data (even just sets)?
 Object detection?
+DQN and DDPG/SVG?
