@@ -4,3 +4,4 @@ Language modelling with RNNs?
 Graph networks? Dealing with other structured data (even just sets)?
 Object detection?
 DQN and DDPG/SVG?
+ES/GA for black box optimisation?
