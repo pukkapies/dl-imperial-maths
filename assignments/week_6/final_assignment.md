@@ -5,7 +5,7 @@ Due date : 7th December 2018
 ## Generative model for the CelebA dataset
 
 This final assignment covers the remainder of the course. The aims for the assignment are:
-* Design, build, train and test a generative model of the CelebA dataset
+* Design, build, train and test a generative model of your choosing for the CelebA dataset
 * Explore more of Tensorflow or PyTorch’s functions for data processing
 * Write a report to summarise the research work carried out for this assignment
 * Provide example generations from your trained model
@@ -22,7 +22,7 @@ The dataset itself can be downloaded from [here](http://mmlab.ie.cuhk.edu.hk/pro
 
 The dataset consists of over 20,000 images of celebrity faces, comprising 10,177 different identities. Each image is 178 x 218 pixels. In order to greatly simplify the learning task and reduce training time, you should downsample the dataset to something like 32 x 40 pixels. 
 
-## Generative model
+## Choice of generative model
 
 In this course, we have covered several types of generative deep learning models: autoregressive models, variational autoencoders, generative adversarial networks and normalising flows. Each of these classes of generative models is actively researched and has a large and interesting body of literature to learn from. 
 
@@ -30,7 +30,7 @@ You are free to choose the type of generative model that interests you the most 
 
 ## Framework
 
-For this project, you are free to choose either Tensorflow or PyTorch.
+In this course, we have covered the fundamentals of both Tensorflow and PyTorch. For this project, you can choose either of these frameworks.
 
 If using Tensorflow, you may want to familiarise yourself with the Dataset API, and make use of the tfrecords format. This enables Tensorflow to work with large datasets that cannot fit in memory. We recommend to look at the [Tensorflow guide to importing data](https://www.tensorflow.org/guide/datasets).
 
