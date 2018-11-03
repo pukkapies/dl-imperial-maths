@@ -34,13 +34,29 @@ For this project, you are free to choose either Tensorflow or PyTorch.
 
 If using Tensorflow, you may want to familiarise yourself with the Dataset API, and make use of the tfrecords format. This enables Tensorflow to work with large datasets that cannot fit in memory. We recommend to look at the [Tensorflow guide to importing data](https://www.tensorflow.org/guide/datasets).
 
-### Google Colab
+## Google Colab
 
 We recommend to use GPUs for training your models for this assignment. You can get access to GPU hardware through Google Colab. It is easy to use and provides 12 hours at a time of GPU access. To get started with Colab, take a look through the [introductory notebook](https://colab.research.google.com/notebooks/welcome.ipynb).
 
+## Submission
+
+Your final project should be available to view in your own private repository, together with all other assignments from the course. You will be required to provide a link to your repository prior to the final oral examination.
+
+### Code
+
+All code used for the project should be included in your repository and clearly presented.
+
 ## Report
 
+A required component of this assignment is to write a summary report of the process that you followed during the completion of this assignment. Make sure to include:
+
+* Details of your final model architecture, including all hyperparameters, train/validation/test splits, optimizer used etc.
+* Hyperparameter searches that you performed during the project, including your method of validation and corresponding results
+* Model performance, metrics used and training curves for trained models
+* Lessons learned and any other points of interest from your project
+
+The report could be written in markdown format in your repository, or included as a pdf if you prefer.
 
 ## Example generations
 
-
+Finally, include a selection of example generations from your model for evaluation. You should of course aim for high quality models and samples, but this is not the main aim of the project. The oral examination will focus on your understanding of the course material and the process you followed for this assignment.
