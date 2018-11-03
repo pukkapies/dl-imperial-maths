@@ -12,7 +12,7 @@ This final assignment covers the remainder of the course. The aims for the assig
 
 ### The dataset
 
-The dataset itself can be downloaded from [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html “CelebA dataset“). (Note the dataset can also be downloaded from [Google Drive](https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8 “CelebA dataset”) or [Baidu Drive](https://pan.baidu.com/s/1eSNpdRG#list/path=%2FCelebA “CelebA dataset“). Make sure to download the aligned and cropped version of the dataset. In this version, the images have been roughly aligned using similarity transformation according to the two eye locations.
+The dataset itself can be downloaded from [here](http://mmlab.ie.cuhk.edu.hk/projects/ "CelebA dataset"). (Note the dataset can also be downloaded from [Google Drive](https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8 "CelebA dataset") or [Baidu Drive](https://pan.baidu.com/s/1eSNpdRG#list/path=%2FCelebA "CelebA dataset"). Make sure to download the aligned and cropped version of the dataset. In this version, the images have been roughly aligned using similarity transformation according to the two eye locations.
 
 <p align="center">
   <img width=“588” height=“400” src=celebA.png>
@@ -22,7 +22,7 @@ The dataset consists of over 20,000 images of celebrity faces, comprising 10,177
 
 ## Generative model
 
-
+CelebA.html
 
 ## Framework
 
