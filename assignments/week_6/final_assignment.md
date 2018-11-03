@@ -30,6 +30,8 @@ For this project, you are free to choose either Tensorflow or PyTorch.
 
 If using Tensorflow, you may want to familiarise yourself with the Dataset API, and make use of the tfrecords format. This enables Tensorflow to work with large datasets that cannot fit in memory. We recommend to look at the [Tensorflow guide to importing data](https://www.tensorflow.org/guide/datasets).
 
+### Google Colab
+
 ## Report
 
 
