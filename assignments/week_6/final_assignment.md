@@ -6,7 +6,7 @@ Due date : 7th December 2018
 
 This final assignment covers the remainder of the course. The aims for the assignment are:
 * Design, build, train and test a generative model of your choosing for the CelebA dataset
-* Explore more of Tensorflow or PyTorch’s functions for data processing
+* Explore more of Tensorflow or PyTorch’s functions for data processing and model building
 * Write a report to summarise the research work carried out for this assignment
 * Provide example generations from your trained model
 
