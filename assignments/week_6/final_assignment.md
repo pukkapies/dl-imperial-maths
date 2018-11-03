@@ -10,6 +10,8 @@ This final assignment covers the remainder of the course. The aims for the assig
 * Write a report to summarise the research work carried out for this assignment
 * Provide example generations from your trained model
 
+This assignment is intentionally quite open-ended and has a lot of scope for different model choices; you are encouraged to dig deeper into the area that interests you the most.
+
 ### The dataset
 
 The dataset itself can be downloaded from [here](http://mmlab.ie.cuhk.edu.hk/projects/ "CelebA dataset"). (Note the dataset can also be downloaded from [Google Drive](https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8 "CelebA dataset") or [Baidu Drive](https://pan.baidu.com/s/1eSNpdRG#list/path=%2FCelebA "CelebA dataset")). Make sure to download the aligned and cropped version of the dataset. In this version, the images have been roughly aligned using similarity transformation according to the two eye locations.
@@ -22,7 +24,9 @@ The dataset consists of over 20,000 images of celebrity faces, comprising 10,177
 
 ## Generative model
 
-CelebA.html
+In this course, we have covered several types of generative deep learning models: autoregressive models, variational autoencoders, generative adversarial networks and normalising flows. Each of these classes of generative models is actively researched and has a large and interesting body of literature to learn from. 
+
+You are free to choose the type of generative model that interests you the most for this assignment. Part of the task is to explore more of the literature and experiment with some of the ideas and improvements that have been published. 
 
 ## Framework
 
@@ -31,6 +35,8 @@ For this project, you are free to choose either Tensorflow or PyTorch.
 If using Tensorflow, you may want to familiarise yourself with the Dataset API, and make use of the tfrecords format. This enables Tensorflow to work with large datasets that cannot fit in memory. We recommend to look at the [Tensorflow guide to importing data](https://www.tensorflow.org/guide/datasets).
 
 ### Google Colab
+
+We recommend to use GPUs for training your models for this assignment. You can get access to GPU hardware through Google Colab. It is easy to use and provides 12 hours at a time of GPU access. To get started with Colab, take a look through the [introductory notebook](https://colab.research.google.com/notebooks/welcome.ipynb).
 
 ## Report
 
