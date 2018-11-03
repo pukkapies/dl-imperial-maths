@@ -46,7 +46,7 @@ Your final project should be available to view in your own private repository, t
 
 All code used for the project should be included in your repository and clearly presented.
 
-## Report
+### Report
 
 A required component of this assignment is to write a summary report of the process that you followed during the completion of this assignment. Make sure to include:
 
@@ -57,6 +57,6 @@ A required component of this assignment is to write a summary report of the proc
 
 The report could be written in markdown format in your repository, or included as a pdf if you prefer.
 
-## Example generations
+### Example generations
 
 Finally, include a selection of example generations from your model for evaluation. You should of course aim for high quality models and samples, but this is not the main aim of the project. The oral examination will focus on your understanding of the course material and the process you followed for this assignment.
