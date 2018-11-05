@@ -24,7 +24,7 @@ As a default, we recommend to use the CelebA dataset for this project. The datas
 
 The dataset consists of over 20,000 images of celebrity faces, comprising 10,177 different identities. Each image is 178 x 218 pixels. In order to greatly simplify the learning task and reduce training time, you should downsample the dataset to something like 32 x 40 pixels. Additionally, feel free to convert the dataset to black and white.
 
-### Fashion-MNIST
+### Fashion-MNIST dataset
 
 Modelling the CelebA dataset will require more computing resources, and although it is possible to access free GPU compute time with Google Colab (see below), we would like to offer the option of using the Fashion-MNIST dataset, which is a much simpler dataset for this project. 
 
