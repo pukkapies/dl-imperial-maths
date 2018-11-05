@@ -48,7 +48,7 @@ All code used for the project should be included in your repository and clearly 
 
 ### Report
 
-A required component of this assignment is to write a summary report of the process that you followed during the completion of this assignment. Make sure to include:
+A required component of this assignment is to write a short summary report (around a couple of pages) of the process that you followed during the completion of this assignment. Make sure to include:
 
 * Details of your final model architecture, including all hyperparameters, train/validation/test splits, optimizer used etc.
 * Hyperparameter searches that you performed during the project, including your method of validation and corresponding results
