@@ -48,3 +48,5 @@ To complete the coursework and run the notebooks you will need to install Tensor
 * Installing PyTorch via Anaconda/pip: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 * Installing torchtext via pip (Anaconda install unavailable): [https://github.com/pytorch/text](https://github.com/pytorch/text)
 * Installing OpenAI Gym using pip (Anaconda install unavailable): [https://gym.openai.com/docs/](https://gym.openai.com/docs/)
+
+The PyTorch notebooks require Python 3. Different Python versions can be managed via Anaconda.
